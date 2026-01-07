@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+venv/
+.env
+mlruns/
+*.log
+.DS_Store
+.vscode/
+confusion_matrix.png
+feature_importance.png
+# Secrets (NE JAMAIS commiter)
+*.secret
+*.key
+*.pem
+credentials*.json
+resultat.txt
+azure-credentials.json
