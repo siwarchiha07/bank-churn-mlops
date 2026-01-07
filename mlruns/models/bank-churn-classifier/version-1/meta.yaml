@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1764943523638
+current_stage: None
+description: null
+last_updated_timestamp: 1764943523638
+name: bank-churn-classifier
+run_id: 6a3b4e3556ba45c8bcec2db431a346cf
+run_link: null
+source: file:///C:/bank-churn-mlops/mlruns/685217643404186454/6a3b4e3556ba45c8bcec2db431a346cf/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/bank-churn-mlops/mlruns/685217643404186454/6a3b4e3556ba45c8bcec2db431a346cf/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/bank-churn-mlops/mlruns/685217643404186454
+creation_time: 1764943517456
+experiment_id: '685217643404186454'
+last_update_time: 1764943517456
+lifecycle_stage: active
+name: bank-churn-prediction

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/bank-churn-mlops/mlruns/685217643404186454/6a3b4e3556ba45c8bcec2db431a346cf/artifacts
+end_time: 1764943523739
+entry_point_name: ''
+experiment_id: '685217643404186454'
+lifecycle_stage: active
+run_id: 6a3b4e3556ba45c8bcec2db431a346cf
+run_name: random-forest-v1
+run_uuid: 6a3b4e3556ba45c8bcec2db431a346cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764943517669
+status: 3
+tags: []
+user_id: Islam
